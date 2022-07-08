@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+.line{
+    text-align: center;
+    width: 200px;
+    background-color: aqua;
+    height: 3px;
+}
+.link{list-style: none;}
+h1{
+    font-family: 'Poppins', sans-serif;
+}
